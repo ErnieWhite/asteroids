@@ -6,8 +6,8 @@ from constants import *
 
 def main():
     print("Starting Asteroids!")
-    print("Screen width:", constants.SCREEN_WIDTH)
-    print("Screen height:", constants.SCREEN_HEIGHT)
+    print("Screen width:", SCREEN_WIDTH)
+    print("Screen height:", SCREEN_HEIGHT)
 
 
 if __name__ == "__main__":
